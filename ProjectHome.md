@@ -1,0 +1,1 @@
+A library for parsing craigslist. This was a school project.
